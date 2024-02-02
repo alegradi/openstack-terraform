@@ -15,4 +15,4 @@ In this repo you can find examples of using Terraform to manage your Openstack d
 1. Clone repo
 2. Populate `example-secret.env` with your variables
 3. Export the variables with `source example-secret.env`
-4. Run Terraform
+4. Run `terraform init`
